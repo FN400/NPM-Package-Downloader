@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 
-namespace NPMDownloader
+namespace NPMPackageDownloader
 {
     static class Program
     {

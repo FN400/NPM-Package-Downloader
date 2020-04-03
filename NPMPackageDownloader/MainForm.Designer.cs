@@ -1,4 +1,4 @@
-﻿namespace NPMDownloader
+﻿namespace NPMPackageDownloader
 {
     partial class MainForm
     {

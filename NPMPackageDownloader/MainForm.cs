@@ -7,7 +7,7 @@ using Newtonsoft.Json.Linq;
 using System.ComponentModel;
 using System.Collections.Generic;
 
-namespace NPMDownloader
+namespace NPMPackageDownloader
 {
     public partial class MainForm : Form
     {

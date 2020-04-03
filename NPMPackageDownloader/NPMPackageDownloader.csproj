@@ -8,8 +8,8 @@
     <ProjectGuid>{4304713D-3ED0-4DED-9B16-88AF0733B699}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>NPMDownloader</RootNamespace>
-    <AssemblyName>NPMDownloader</AssemblyName>
+    <RootNamespace>NPMPackageDownloader</RootNamespace>
+    <AssemblyName>NPM-Package-Downloader</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -97,6 +97,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="app.manifest" />
     <None Include="packages.config" />
