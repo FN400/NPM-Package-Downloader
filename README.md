@@ -13,6 +13,10 @@ and done!
 
 ![Screenshot-2](https://raw.githubusercontent.com/FN400/NPM-Package-Downloader/master/Doc/screenshot2.png)
 
+
+
+### Download fresh build from [here](https://ci.appveyor.com/project/FN400/npm-package-downloader/build/artifacts)
+
 ---
 Thanks:
 
